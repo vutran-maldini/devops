@@ -4,8 +4,8 @@
 
 ## Install Vagrant
 Download and install the required tools:
-. https://www.vagrantup.com/downloads.html
-. https://www.virtualbox.org/wiki/Downloads
+  - https://www.vagrantup.com/downloads.html
+  - https://www.virtualbox.org/wiki/Downloads
 
 ## Create and configure guest machines according to your Vagrantfile.
 ```
