@@ -17,7 +17,7 @@ Vagrant.configure("2") do |config|
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs
   # `vagrant box outdated`. This is not recommended.
-  config.vm.box_check_update = false
+  config.vm.box_check_update = true
 
   # Create a forwarded port mapping which allows access to a specific port
   # within the machine from a port on the host machine. In the example below,
@@ -48,6 +48,7 @@ Vagrant.configure("2") do |config|
   config.vm.provider "virtualbox" do |vb|
     # Display the VirtualBox GUI when booting the machine
     # vb.gui = true
+	config.vm.network "private_network", ip: "192.168.1.200"
   
     # Customize the amount of memory on the VM:
     vb.name = "senvangvm"
@@ -69,12 +70,9 @@ Vagrant.configure("2") do |config|
   # Puppet, Chef, Ansible, Salt, and Docker are also available. Please see the
   # documentation for more information about their specific syntax and use.
   config.vm.provision "shell", inline: <<-SHELL
-    #yum update -y
-    #yum install git wget unzip net-tools arp apr-devel apr-util apr-util-devel pcre pcre-devel telnet -y
-	
-	# Enable firewall
-	#systemctl enable firewalld
-	#systemctl start firewalld
+    yum update -y
+    yum install git wget unzip net-tools arp apr-devel apr-util apr-util-devel pcre pcre-devel telnet -y
   SHELL
-  # config.vm.provision :shell, path: "bootstrap.sh"
+  config.vm.provision :shell, path: "../install_env.sh", args: ["install environment", "your server name", "your email", "repository url"]
+  config.vm.provision :shell, path: "../deploy_simple_html.sh", run: "always", args: ["update source", "repository url", "html source directory"]
 end
