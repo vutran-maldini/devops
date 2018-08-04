@@ -1,4 +1,4 @@
 # CHMODE
-![Alt text](/images/chmode.png "chmode overview")
-![Alt text](/image/permissions_overview.jpg "Permission overview")
-![Alt text](/images/permission_value.gif "Optional title")
+![GitHub Logo](/images/chmode.png "chmode overview")
+![GitHub Logo](/image/permissions_overview.jpg "Permission overview")
+![GitHub Logo](/images/permission_value.gif "Optional title")
