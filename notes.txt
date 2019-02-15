@@ -1,0 +1,70 @@
+Spring boot
+https://o7planning.org/vi/11267/huong-dan-lap-trinh-spring-boot-cho-nguoi-moi-bat-dau
+https://kipalog.com/posts/Buoc-dau-tim-hieu-Spring-Boot
+https://www.mkyong.com/spring-boot/spring-boot-non-web-application-example/
+https://restfulapi.net/http-status-codes/
+
+Facebook - Workspace
+https://work-57372722.facebook.com/groups/1649612721822928/
+
+How to Read/Write Excel files in Java using Apache POI
+https://www.callicoder.com/java-read-excel-file-apache-poi/
+https://www.callicoder.com/java-write-excel-file-apache-poi/
+https://www.consulting-bolte.de/index.php/apache-poi/148-reading-big-excel-files-with-poi
+http://lchenaction.blogspot.com/2013/12/how-to-read-super-large-excel-and-csv.html
+
+Spring Batch
+https://docs.spring.io/spring-batch/trunk/reference/html/index.html
+
+Spring RESTfull
+http://www.jsonschema2pojo.org/
+https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
+
+Regex
+https://regex101.com/
+
+JavaScript
+https://github.com/getify/You-Dont-Know-JS
+
+Understanding LDAP
+http://courses.cs.vt.edu/cs5204/fall05-kafura/Papers/Naming/PagesFromUnderstandingLDAP.pdf
+
+http://www.savethecode.com/recipe-spring-boot-uncoupled-factories/
+
+https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc
+
+technology summary resume for senior software engineer
+
+https://lmsvo.topicanative.edu.vn/activities/lesson/by-resource/57184d0ea8615a2edbf2cc86/
+
+Allianz
+https://senior.ceng.metu.edu.tr/2012/dbug/documents/DDR.pdf
+https://wiki.services.eoportal.org/tiki-download_wiki_attachment.php?attId=318
+https://online.visual-paradigm.com/tutorials/sequence-diagram-tutorial/
+
+https://www.elastic.co/
+https://github.com/GoogleChrome/puppeteer
+
+Micro Service
+https://www.vboss.tech/blog/digital-transformation/2018/08/30/DT1-Digital-Transformation-in-2018.html
+https://docs.spring.io/spring-boot/docs/current/reference/html/howto-data-access.html
+https://docs.spring.io/spring-boot/docs/current/reference/html/howto-data-access.html
+
+mybatis
+https://github.com/michalsida/demo-oracle-mybatis
+http://dinukaroshan.blogspot.com/2009/08/hibernate-and-oracle-user-defined-types.html
+
+1) Attached document with how to connect our server from outside.
+2) Your username/password: vpn35 / {oNqa5&)VHz>$b6x
+
+https://github.com/jhipster/jhipster-sample-app
+
+https://github.com/brettwooldridge/HikariCP
+https://gist.github.com/rhamedy/b3cb936061cc03acdfe21358b86a5bc6
+
+Apache + SSL + Tomcat
+https://www.digitalocean.com/community/tutorials/how-to-encrypt-tomcat-8-connections-with-apache-or-nginx-on-centos-7
+https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-centos-7
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-centos-7
+https://www.digitalocean.com/community/tutorials/how-to-use-apache-as-a-reverse-proxy-with-mod_proxy-on-centos-7
+http://httpd.apache.org/docs/current/mod/mod_proxy.html#proxypass
